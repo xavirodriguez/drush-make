@@ -3,8 +3,8 @@ Perfiles drush-make Codery Labs
 codery.make
 ----------
 Contiene los siguientes módulos:
-admin_menu
-module_filter
+>admin_menu
+>module_filter
 ctools
 calendar
 date
