@@ -1,4 +1,5 @@
-drush-make
+Perfiles drush-make Codery Labs
 ==========
-
-drush-make
+Codery
+----------
+Contiene los siguientes módulos:
