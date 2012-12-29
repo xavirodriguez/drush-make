@@ -2,8 +2,10 @@ Perfiles drush-make Codery Labs
 ==========
 Instrucciones
 -------------
--drush make codery.make tusitio
--drush site-install --site-name="tusitio" --account-name=admin --account-pass=admin --db-prefix=test3_ --db-url=mysql://drupales:drupales@localhost/drupales
+<ul>
+<li>drush make codery.make tusitio</li>
+<li>drush site-install --site-name="tusitio" --account-name=admin --account-pass=admin --db-prefix=test3_ --db-url=mysql://drupales:drupales@localhost/drupales</li>
+</ul>
 codery.make
 ----------
 Contiene los siguientes módulos:
