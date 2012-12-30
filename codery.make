@@ -105,7 +105,6 @@ projects[] = ais
 projects[] = seotools
 projects[] = metatag
 projects[] = seo_ui
-projects[] = html5_tools
 
   
 
